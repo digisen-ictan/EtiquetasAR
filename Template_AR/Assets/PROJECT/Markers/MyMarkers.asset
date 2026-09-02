@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MyMarkers
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5133349851847489361
+  m_GuidHigh: 4018172256229547927
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5626126282133901183
+      m_GuidHigh: 4504019197287116734
+    m_SerializedTextureGuid:
+      m_GuidLow: 6972721120319451158
+      m_GuidHigh: 462961389463027802
+    m_Size: {x: 0.297, y: 0.198}
+    m_SpecifySize: 1
+    m_Name: Etiqueta Pizza
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4783702081359233919
+      m_GuidHigh: 12232620397311708348
+    m_SerializedTextureGuid:
+      m_GuidLow: 11890711471242730658
+      m_GuidHigh: 14343469041677639211
+    m_Size: {x: 0.297, y: 0.198}
+    m_SpecifySize: 1
+    m_Name: Etiqueta albondigas
+    m_Texture: {fileID: 0}
