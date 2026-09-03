@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7992113258639118559}
   - component: {fileID: 5749363464418513883}
   m_Layer: 0
-  m_Name: MedidorRef
+  m_Name: MedidorRefA4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
